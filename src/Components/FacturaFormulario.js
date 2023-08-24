@@ -41,8 +41,6 @@ const FacturaFormulario = ({factura, setFactura}) => {
             subtotal: 0,
             total: 0
         })
-
-
     }
 
     return(
