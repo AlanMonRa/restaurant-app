@@ -1,0 +1,1001 @@
+  996  sudo apt upgrade
+  997  sudo apt update
+  998  sudo apt upgrade
+  999  bash discos.sh 
+ 1000  git clone git@github.com:Inguz-Digital-IFPE/facturacion-contpaq.git
+ 1001  git+ssh
+ 1002  git clone git@github.com:Inguz-Digital-IFPE/facturacion-contpaq.git
+ 1003  ls
+ 1004  sudo nano ~/.ssh/config
+ 1005  git+ssh
+ 1006  cd
+ 1007  sudo nano ~/.ssh/config
+ 1008  ssh -T git@github.com
+ 1009  sudo nano ~/.ssh/config
+ 1010  apt-get install python3-sphinx
+ 1011  sudo apt-get install python3-sphinx
+ 1012  yum install python-sphinx
+ 1013  sudo yum install python-sphinx
+ 1014  virtualenv venvFacuracion
+ 1015  source venvFacuracion/bin/activate
+ 1016  cd facturacion-contpaq/
+ 1017  ls
+ 1018  nano README.md 
+ 1019  ls
+ 1020  cd ..
+ 1021  .
+ 1022  ls
+ 1023  git remote -v
+ 1024  git remote add alanFork git@github.com:AlanMonRa/facturacion-contpaq.git
+ 1025  git remote -v
+ 1026  git fetch --all
+ 1027  git chechout staging
+ 1028  git checkout staging
+ 1029  git pull 
+ 1030  git pull origin staging
+ 1031  git pull origin/staging
+ 1032  git remote -v
+ 1033  ls
+ 1034  cd facturacion-contpaq/
+ 1035  ls
+ 1036  git remote -v
+ 1037  cd ..
+ 1038  ls -a
+ 1039  cd facturacion-contpaq/
+ 1040  git remote add alanFork git@github.com:AlanMonRa/facturacion-contpaq.git
+ 1041  git remote -v
+ 1042  git fetch --all
+ 1043  git checkout staging 
+ 1044  git pull 
+ 1045  git checkout -b rest
+ 1046  ls
+ 1047  cd requirements/
+ 1048  pip install -r base.txt 
+ 1049  pip install -r dev.txt 
+ 1050  cd ..
+ 1051  ls
+ 1052  bash run.sh -c
+ 1053  bash run.sh
+ 1054  pip install djangorestframework
+ 1055  pip freaze
+ 1056  pip freeze
+ 1057  bash run.sh
+ 1058  touch sphinx
+ 1059  touch sphinx.txt
+ 1060  rm sphinx
+ 1061  touch index.rst
+ 1062  cat index.rst 
+ 1063  nano index.rst 
+ 1064  sphinx-build --version
+ 1065  cd Escritorio/Invercratos/
+ 1066  ls
+ 1067  sphinx-build --version
+ 1068  sphinx-quickstart docs
+ 1069  ls
+ 1070  cd docs/
+ 1071  ls
+ 1072  cd ..
+ 1073  sphinx-build -b html docs/source/ docs/build/html
+ 1074  ls
+ 1075  cd docs/
+ 1076  make html
+ 1077  npm start
+ 1078  node index.js
+ 1079  npm star
+ 1080  npm start
+ 1081  bash discos.sh 
+ 1082  sudo apt update
+ 1083  sudo apt upgrade
+ 1084  bash discos.sh 
+ 1085  source Acactus/bin/activate
+ 1086  cd Cactus-Respaldo/
+ 1087  ls
+ 1088  cd cactus/
+ 1089  ls
+ 1090  python3 manage.py runserver
+ 1091  git status
+ 1092  git show-branch 
+ 1093  git status
+ 1094  node index.js
+ 1095  node install mysql
+ 1096  install mysql
+ 1097  npm install mysql
+ 1098  node index.js
+ 1099  npm i mysql
+ 1100  node index.js
+ 1101  npm install ejs mysqlnodemon
+ 1102  node index.js
+ 1103  nodemon index.js 
+ 1104  nodemon index
+ 1105  node index.js
+ 1106  nodemon index
+ 1107  nodemon index.js 
+ 1108  node index.js
+ 1109  npm nodemon 
+ 1110  node index.js
+ 1111  bash discos.sh 
+ 1112  sudo apt update
+ 1113  sudo apt upgrade 
+ 1114  --openssl-legacy-provider
+ 1115  node index.js
+ 1116  npm install axions --save
+ 1117  npm install axios --save
+ 1118  npm start
+ 1119  npm install axios --save
+ 1120  npm audit fix --force
+ 1121  npm install axios --save
+ 1122  npm audit fix --force
+ 1123  npm audit fix
+ 1124  npm install axios --save
+ 1125  npm start
+ 1126  npm install axios --save
+ 1127  npm start
+ 1128  npm install axios
+ 1129  npm start
+ 1130  --openssl-legacy-provider
+ 1131  ls
+ 1132  npm start
+ 1133  npm install webpack@latest
+ 1134  --openssl-legacy-provider
+ 1135  npm install webpack@latest
+ 1136  npm install
+ 1137  npm --version
+ 1138  npm start
+ 1139  npm uninstall react-scripts
+ 1140  npm install react-scripts
+ 1141  rm –rf node_modules
+ 1142  ls
+ 1143  rm –r node_modules
+ 1144  rm –rf node_modules
+ 1145  npm install
+ 1146  npm start
+ 1147  npm install axios --save
+ 1148  npm start
+ 1149  npm install body-parser
+ 1150  npm start
+ 1151  bash discos.sh 
+ 1152  /bin/python3 "/media/alanmonra/Escuela/Escuela/UPMP/Cuatrimestre 8/Sistemas Inteligentes/programa2KNNVersion2.py"
+ 1153  bash discos.sh 
+ 1154  sudo apt update
+ 1155  sudo apt --only-upgrade install google-chrome-stable
+ 1156  sudo apt update
+ 1157  sudo apt upgrade
+ 1158  sudo apt update
+ 1159  sudo apt upgrade
+ 1160  sudo apt install go
+ 1161  sudo apt-get install google-chrome-stable_current_amd64.deb
+ 1162  ls
+ 1163  sudo apt-get install google-chrome-stable_current_amd64.deb
+ 1164  sudo apt-get install google-chrome-stable_current_amd64
+ 1165  sudo apt-get install google-chrome-stable_current_amd64.deb
+ 1166  /bin/python3 "/media/alanmonra/Escuela/Escuela/UPMP/Cuatrimestre 8/Sistemas Inteligentes/KNN_flores.py"
+ 1167  google-chrome --version 
+ 1168  cd Descargas/
+ 1169  ls
+ 1170  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+ 1171  /bin/python3 "/media/alanmonra/Escuela/Escuela/UPMP/Cuatrimestre 8/Sistemas Inteligentes/programa2KNNVersion2.py"
+ 1172  cls
+ 1173  clear
+ 1174  /bin/python3 "/media/alanmonra/Escuela/Escuela/UPMP/Cuatrimestre 8/Sistemas Inteligentes/KNN_flores.py"
+ 1175  clear
+ 1176  bash discos.sh 
+ 1177  psql -h postgres://fl0user:p4Kl0azWXtqr@ep-icy-star-86780316.ap-southeast-1.aws.neon.tech:5432/restaurantDB?sslmode=require -U rafmolina -p 5432 -d equipamientos
+ 1178  psql
+ 1179  rm -r pgadmin4.list 
+ 1180  sudo rm -r pgadmin4.list 
+ 1181  rm -r packages-pgadmin-org.gpg 
+ 1182  sudo rm -r packages-pgadmin-org.gpg 
+ 1183  nano packages-pgadmin-org.gpg 
+ 1184  sudo nano packages-pgadmin-org.gpg 
+ 1185  sudo apt update
+ 1186  sudo rm -r packages-pgadmin-org.gpg 
+ 1187  touch cursoPentesting.txt
+ 1188  sudo apt update
+ 1189  sudo apt upgrate
+ 1190  sudo apt upgrade
+ 1191  sudo apt install postgresql postgresql-contrib
+ 1192  sudo su - postgres
+ 1193  sudo apt install curl
+ 1194  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1195  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1196  sudo apt install pgadmin4
+ 1197  bash discos.sh 
+ 1198  psql
+ 1199  sudo su - postgres
+ 1200  sudo apt update
+ 1201  sudo apt upgrade
+ 1202  npm init -y
+ 1203  npm i express pg
+ 1204  node src/index.js
+ 1205  npm i nodemon -D
+ 1206  npm run dev
+ 1207  npx nodemon
+ 1208  npm start
+ 1209  npm run dev
+ 1210  node src/index.js
+ 1211  npm run dev
+ 1212  nodemon src/index.js 
+ 1213  pkill node
+ 1214  nodemon src/index.js 
+ 1215  npm run dev
+ 1216  netstat -lntp | grep node
+ 1217  npm run dev
+ 1218  touch cerificacionUni.txt
+ 1219  bash discos.sh 
+ 1220  sudo -u postgres psql
+ 1221  cls
+ 1222  psql -h ep-damp-sky-10507305.us-east-2.aws.neon.tech -U fl0user -d Restaurant
+ 1223  npm run dev
+ 1224  sudo -u root psql
+ 1225  sudo -u postgres psql
+ 1226  sudo -u fl0user psql
+ 1227  sudo postgres
+ 1228  su postgres
+ 1229  sudo -u fl0user psql
+ 1230  sudo -u postgres psql
+ 1231  psql -h ep-damp-sky-10507305.us-east-2.aws.neon.tech -U fl0user -d Restaurant
+ 1232  bash discos.sh 
+ 1233  psql -h ep-damp-sky-10507305.us-east-2.aws.neon.tech -U fl0user -d Restaurant
+ 1234  npm run dev
+ 1235  npm install -g nodemon
+ 1236  npm run dev
+ 1237  npm install pg
+ 1238  npm run dev
+ 1239  bash discos.sh 
+ 1240  npm run dev
+ 1241  bash discos.sh 
+ 1242  sudo update
+ 1243  sudo apt update
+ 1244  sudo apt upgrade 
+ 1245  ls
+ 1246  npm create-react-app restaurant-app
+ 1247  npx create-react-app restaurant-app
+ 1248  ls
+ 1249  ls
+ 1250  cd restaurant-app/
+ 1251  npm start
+ 1252  npm star
+ 1253  npx create-react-app restaurant-app
+ 1254  ls
+ 1255  npx create-react-app restaurant-app
+ 1256  ls
+ 1257  cd restaurant-app/
+ 1258  npm star
+ 1259  npm start
+ 1260  cd restaurant-app/
+ 1261  npm start
+ 1262  npm run dev
+ 1263  npm i cors
+ 1264  npm run dev
+ 1265  bash discos.sh 
+ 1266  npm start
+ 1267  npm star
+ 1268  npm start
+ 1269  npm run dev
+ 1270  bash discos.sh 
+ 1271  git init
+ 1272  ls -a
+ 1273  git status
+ 1274  git add .
+ 1275  git init
+ 1276  git status
+ 1277  git add .
+ 1278  git status
+ 1279  git add .
+ 1280  git status
+ 1281  git commit -m "first commit"
+ 1282  git branch -M main
+ 1283  git remote add origin git@github.com:AlanMonRa/APIconReact.git
+ 1284  git push -u origin main
+ 1285  touch cifradoAsimetrico.py
+ 1286  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1287  pip3 install crypto --break-system-packages
+ 1288  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1289  pip3 install crypto --break-system-packages
+ 1290  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1291  pip3 install crypto --break-system-packages/bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1292  pip3 install crypto --break-system-packages/bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py/bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1293  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1294  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py/bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1295  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1296  python --version}
+ 1297  python --version
+ 1298  python3 --version
+ 1299  pip3 install pycrypto
+ 1300  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1301  lsa
+ 1302  ls
+ 1303  cd Escritorio/Invercratos/
+ 1304  python3 cifradoAsimetrico.py 
+ 1305  pip3 install crypto
+ 1306  pip3 install crypto --break-system-packages
+ 1307  pip install crypto --break-system-packages
+ 1308  pip3 install crypto --break-system-packages
+ 1309  sudo pip3 install crypto --break-system-packages
+ 1310  sudo pip3 install Crypto --break-system-packages
+ 1311  sudo pip3 install Crypto
+ 1312  pip3 install Crypto
+ 1313  puthon3 install Crypto
+ 1314  python3 install Crypto
+ 1315  python3 install crypto
+ 1316  sudo python3 install crypto
+ 1317  apt install python3
+ 1318  sudo apt install python3
+ 1319  python3 install crypto
+ 1320  pip3 install Crypto
+ 1321  sudo apt install python3-full
+ 1322  pip3 install Crypto
+ 1323  pip install crypto --break-system-packages
+ 1324  pip3 install Crypto
+ 1325  pip3 install crypto
+ 1326  sudo apt install python3-crypto
+ 1327  pip unistall Crypto
+ 1328  pip3 unistall Crypto
+ 1329  pip3 uninstall Crypto
+ 1330  pip uninstall pycrypto
+ 1331  pip3 uninstall pycrypto
+ 1332  pip3 install pycrypto
+ 1333  pip3 install crypto
+ 1334  pip3 install pycrypto
+ 1335  sudo apt-get update
+ 1336  sudo apt-get upgrade
+ 1337  sudo apt-get install python3-crypto
+ 1338  sudo apt-get remove python-crypto
+ 1339  sudo apt-get install python3-crypto
+ 1340  sudo apt-get autoremove python-crypto
+ 1341  touch pip.conf
+ 1342  pycrypto --version
+ 1343  pycryptodome --version
+ 1344  ls -a
+ 1345  npm run dev
+ 1346  git status 
+ 1347  git add .
+ 1348  git status 
+ 1349  git commit -m "segundo commit"
+ 1350  git status 
+ 1351  git push origin main 
+ 1352  npm run dev
+ 1353  git status
+ 1354  npm run dev
+ 1355  git restore 
+ 1356  git status
+ 1357  git restore restaurant-app/
+ 1358  git status
+ 1359  npm run dev
+ 1360  cd restaurant-app/
+ 1361  npm start
+ 1362  npm install react-router-dom
+ 1363  npm start
+ 1364  ls -a
+ 1365  git init
+ 1366  git status
+ 1367  git add .
+ 1368  git status
+ 1369  git commit -m "first commit"
+ 1370  git branch -M main
+ 1371  git remote add origin git@github.com:AlanMonRa/reactDeAPI.git
+ 1372  git status
+ 1373  git push -u origin main
+ 1374  npm start
+ 1375  git status
+ 1376  git add .
+ 1377  git status
+ 1378  git comit -m "Ya funciona los componentes Factura y Cliente"
+ 1379  git commit -m "Ya funciona los componentes Factura y Cliente"
+ 1380  git status
+ 1381  git push origin main 
+ 1382  npm start
+ 1383  git status
+ 1384  git restore src/
+ 1385  npm start
+ 1386  git restore src/
+ 1387  git status
+ 1388  git restore src/
+ 1389  npm start
+ 1390  git restore src/
+ 1391  git status
+ 1392  git restore src/Components/Factura.js 
+ 1393  git status
+ 1394  ls
+ 1395  npm run dev
+ 1396  git clone git@github.com:AlanMonRa/examen.git
+ 1397  git clone git@github.com:AlanMonRa/restaurant-app.git
+ 1398  npm run dev
+ 1399  npm install
+ 1400  npm run dev
+ 1401  npm i nodemon
+ 1402  npm run dev
+ 1403  npx nodemon index.js
+ 1404  npx index.js
+ 1405  ls
+ 1406  cd src/
+ 1407  npx nodemon index.js
+ 1408  npx index.js
+ 1409  npm run dev
+ 1410  npx nodemon index.js
+ 1411  pip3 install pycryptodome
+ 1412  /bin/python3 /home/alanmonra/Escritorio/Invercratos/cifradoAsimetrico.py
+ 1413  bash discos.sh 
+ 1414  sudo apt update
+ 1415  sudo apt upgrade
+ 1416  cd restaurant-app/
+ 1417  npm start
+ 1418  npm 
+ 1419  npm start
+ 1420  npm install
+ 1421  npm start
+ 1422  cd ..
+ 1423  cls
+ 1424  npm run dev
+ 1425  bash discos.sh
+ 1426  ls
+ 1427  ls}
+ 1428  ls -a
+ 1429  cat examen
+ 1430  nano examen 
+ 1431  rm examen 
+ 1432  rm -r  examen 
+ 1433  sudo rm -r  examen 
+ 1434  sudo rm -r examen 
+ 1435  ls
+ 1436  git clone git@github.com:AlanMonRa/examen.git
+ 1437  git clone https://github.com/AlanMonRa/examen.git
+ 1438  ls
+ 1439  sudo rm -r examen 
+ 1440  sudo rm -R examen 
+ 1441  sudo rm -Rf examen 
+ 1442  git clone https://github.com/AlanMonRa/examen.git
+ 1443  cd examen/
+ 1444  ls
+ 1445  rm restaurant-app/
+ 1446  rm -r restaurant-app/
+ 1447  ls
+ 1448  git clone git@github.com:AlanMonRa/restaurant-app.git
+ 1449  history
+ 1450  npm run dev
+ 1451  ls
+ 1452  npx run dev
+ 1453  npm run dev
+ 1454  ls
+ 1455  cd src/
+ 1456  ls
+ 1457  npm run index.js 
+ 1458  cd ..
+ 1459  ls
+ 1460  npm run dev
+ 1461  git clone https://github.com/AlanMonRa/examen.git
+ 1462  cd examen/
+ 1463  ls
+ 1464  rm -r restaurant-app/
+ 1465  git clone https://github.com/AlanMonRa/restaurant-app.git
+ 1466  npm i react-router.dom
+ 1467  npm i react-router-dom
+ 1468  cd restaurant-app/
+ 1469  npm start
+ 1470  npm install
+ 1471  npm start
+ 1472  npm run dev
+ 1473  npm i nodemon
+ 1474  npm run dev
+ 1475  sudo npm install -g nodemon
+ 1476  npm run dev
+ 1477  git status
+ 1478  git checkout -b readme
+ 1479  git status
+ 1480  npm run dev
+ 1481  bash discos.sh 
+ 1482  cd restaurant-app/
+ 1483  npm start
+ 1484  npm run dev
+ 1485  npm start
+ 1486  bash discos.sh 
+ 1487  sudo apt update
+ 1488  sudo apt-get update
+ 1489  sudo apt-get upgrade
+ 1490  sudo mv trusted.gpg otroNombre.gpg
+ 1491  sudo mv otroNombre.gpg trusted.gpg.d
+ 1492  nano sources.list.save 
+ 1493  sudo nano sources.list.save 
+ 1494  sudo nano sources.list
+ 1495  sudo apt-get update
+ 1496  sudo apt-get upgrage
+ 1497  sudo apt-get upgrade
+ 1498  apt --fix-broken install
+ 1499  sudo apt --fix-broken install
+ 1500  sudo apt-get upgrage
+ 1501  sudo apt-get update
+ 1502  sudo apt-get upgrade
+ 1503  sudo dpkg -i microsoft_online_apps.deb
+ 1504  cd Descargas/
+ 1505  sudo dpkg -i microsoft_online_apps.deb
+ 1506  cd
+ 1507  sudo apt-get update
+ 1508  sudo apt-get upgrade
+ 1509  sudo apt-get update
+ 1510  sudo apt-get upgrade
+ 1511  bash discos.sh 
+ 1512  sudo apt update
+ 1513  sudo apt upgrade
+ 1514  snap --version
+ 1515  sudo snap install android-studio --classic
+ 1516  java --version
+ 1517  sudo snap install android-studio --classic
+ 1518  sudo apt install openjdk-17-jre-headless 
+ 1519  sudo apt install default-jre
+ 1520  sudo apt update
+ 1521  sudo apt upgrade
+ 1522  sudo apt install default-jdk
+ 1523  java --version
+ 1524  sudo apt install default-jdk
+ 1525  sudo snap install android-studio --classic
+ 1526  sudo apt install default-jdk
+ 1527  sudo apt install openjdk-17-jre-headless
+ 1528  java --version
+ 1529  sudo apt install default-jdk
+ 1530  sudo apt update
+ 1531  sudo apt upgrade
+ 1532  sudo apt install default-jdk
+ 1533  sudo add-apt-repository default-jdk
+ 1534  sudo apt install default-jre
+ 1535  java -version
+ 1536  sudo apt install default-jdk
+ 1537  javac -version
+ 1538  cd Descargas/
+ 1539  cd ..
+ 1540  javac -version
+ 1541  java -version
+ 1542  htop
+ 1543  sudo apt update
+ 1544  sudo apt upgrade
+ 1545  pwd
+ 1546  ls
+ 1547  tar -xzvf 
+ 1548  tar-xzvf john-1.9.0-jumbo-1.tar.xz 
+ 1549  tar-xzvf john-1.9.0-jumbo-1.tar.xz
+ 1550  tar-xzvf 
+ 1551  ls
+ 1552  cd john-1.9.0-jumbo-1/
+ 1553  cd src/
+ 1554  make
+ 1555  sudo make
+ 1556  ls
+ 1557  bash discos.sh 
+ 1558  sudo apt update
+ 1559  sudo apt upgrade
+ 1560  apt-get install john
+ 1561  sudo apt-get install john
+ 1562  sudo apt-get install john -y
+ 1563  ped
+ 1564  pwd
+ 1565  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1566  john --format=raw-sha1 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1567  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1568  sudo apt-get update
+ 1569  sudo apt-get upgrade
+ 1570  sudo apt install snapd
+ 1571  sudo snap install john-the-ripper
+ 1572  john --version
+ 1573  john -version
+ 1574  cd Escritorio/hashes/
+ 1575  touch hash1.txt
+ 1576  nano hash1.txt 
+ 1577  nano hash2.txt 
+ 1578  touch hash2.txt
+ 1579  touch hash3.txt
+ 1580  touch hash4.txt
+ 1581  john --format=raw-md5 --wordlist=
+ 1582  john --format=raw-md5 --wordlist=~/home/alanmonra/Escritorio/wordList/word/list.txt hash1.txt 
+ 1583  john --format=raw-md5 --wordlist=~/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt 
+ 1584  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt 
+ 1585  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1586  john --format=raw-md5 --wordlist=~/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt 
+ 1587  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1588  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash3.txt
+ 1589  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash1.txt
+ 1590  john --format=raw-md5 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash3.txt
+ 1591  john --format=raw-sha1 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash2.txt
+ 1592  john --format=raw-sha1 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash4.txt
+ 1593  --show --format=Raw-SHA1
+ 1594  john --show --format=Raw-SHA1
+ 1595  john --format=raw-sha1 --wordlist=/home/alanmonra/Escritorio/wordList/word-list.txt hash4.txt
+ 1596  poweroff
+ 1597  sudoapt-get install Juan -y
+ 1598  sudo apt-get install Juan -y
+ 1599  bash discos.sh 
+ 1600  sudo apt update
+ 1601  sudo apt install snapd
+ 1602  sudo snap install john-the-ripper
+ 1603  john-the-ripper --version
+ 1604  sudo apt upgrade
+ 1605  john 
+ 1606  john-the-ripper
+ 1607  poweroff
+ 1608  bash discos.sh 
+ 1609  sudo apt-get update
+ 1610  john --version
+ 1611  john-the-ripper --version
+ 1612  john-the-ripper 
+ 1613  john --help
+ 1614  sudo apt-get update
+ 1615  sudo apt-get upgrade
+ 1616  htop
+ 1617  poweroff
+ 1618  sudo apt-get update
+ 1619  sudo apt-get upgrade
+ 1620  sudo apt-get update
+ 1621  sudo apt-get upgrade
+ 1622  sudo apt-get update
+ 1623  sudo apt-get upgrade
+ 1624  sudo apt-get update
+ 1625  sudo apt-get upgrade
+ 1626  sudo apt-get update
+ 1627  sudo apt-get upgrade
+ 1628  bash discos.sh 
+ 1629  nmap -p --open -sS --main-rate=4500 -vvv -n -Pn -oG ports
+ 1630  sudo bash discos.sh 
+ 1631  sudo apt-get update
+ 1632  sudo apt-get upgrade
+ 1633  sudo apt-get install nmap
+ 1634  nmap --version
+ 1635  ipconfig
+ 1636  ip config
+ 1637  nmap localhost 
+ 1638  nmap scan ip6-allrouters 
+ 1639  nmap scan ip6-allrouters 192.168.100.0
+ 1640  nmap scan ip6-allrouters 192.168.100.77
+ 1641  nmap -p- 192.168.100.1
+ 1642  ip addr show
+ 1643  ipconfig
+ 1644  ifconfig
+ 1645  nmap -sn 192.168.100.0/24
+ 1646  nmap -sP 192.168.100.0/24
+ 1647  sudo nmap -sP 192.168.100.0/24
+ 1648  sudo nmap -sn 192.168.100.0/24
+ 1649  sudo apt-get update
+ 1650  sudo apt-get upgrade
+ 1651  sudo apt install kleopatra
+ 1652  sudo add-apt-repository universe
+ 1653  sudo apt update
+ 1654  sudo apt install kleopatra
+ 1655  sudo dnf install kleopatra
+ 1656  sudo apt install kleopatra
+ 1657  sudo apt-get update
+ 1658  sudo apt-get install kleopatra
+ 1659  sudo apt-get purge kleopatra
+ 1660  kleopatra
+ 1661  sudo apt-get install kleopatra
+ 1662  sudo git clone git://git.gnupg.org/gpg4win.git
+ 1663  ls
+ 1664  cd gpg4win/
+ 1665  ls
+ 1666  nano README
+ 1667  cd packages/
+ 1668  bash download.sh 
+ 1669  sudo bash download.sh 
+ 1670  cd ..
+ 1671  ./autogen.sh 
+ 1672  ./autogen.sh --build-w32
+ 1673  sudo ./autogen.sh --build-w32
+ 1674  make
+ 1675  whereis gpg
+ 1676  which gnupg
+ 1677  which gpg
+ 1678  gpg --gen-key
+ 1679  sudo apt-get update
+ 1680  sudo apt-get upgrade
+ 1681  bash discos.sh 
+ 1682  nmap -sP 192.168.100.0/24
+ 1683  sudo nmap -sP 192.168.100.0/24
+ 1684  nmap -p- --open 192.168.100.0/24
+ 1685  sudo nmap -p- --open 192.168.100.0/24
+ 1686  sudo nmap -p- --open -sS 192.168.100.0/24
+ 1687  sudo nmap -p- --open -sS --min-rate=4500 -vvv -n -Pn -oG 192.168.100.0/24
+ 1688  sudo nmap -p- --open -sS --min-rate=4500 -vvv -n -Pn -oG ports 192.168.100.0/24
+ 1689  ifconfig
+ 1690  sudo apt-get update
+ 1691  sudo apt-get upgrade
+ 1692  bash discos.sh 
+ 1693  sudo virtualbox
+ 1694  bash discos.sh 
+ 1695  sudo adduser $USER vboxusers
+ 1696  poweroff
+ 1697  bash discos.sh 
+ 1698  sudo apt-get update
+ 1699  sudo apt-get upgrade
+ 1700  bash discos.sh 
+ 1701  iwconfig
+ 1702  ipconfig
+ 1703  ifconfig
+ 1704  ping 192.168.100.1
+ 1705  sudo nmap -sP 192.168.100.0/24
+ 1706  ping 192.168.100.207
+ 1707  sudo nmap -sP 192.168.100.0/24
+ 1708  bash discos.sh 
+ 1709  pwd
+ 1710  cd
+ 1711  ls
+ 1712  ped
+ 1713  pwd
+ 1714  cd ..
+ 1715  ls
+ 1716  cd alanmonra/
+ 1717  ls
+ 1718  sudo chmod +x install.sh
+ 1719  	
+ 1720  ./install.sh
+ 1721  sudo apt-get -y install libfuse2
+ 1722  htop
+ 1723  bash discos.sh 
+ 1724  pwd
+ 1725  pip3 install pyserial
+ 1726  sudo usermod -a -G dialout alanmonra 
+ 1727  ls /dev/ttyUSB*
+ 1728  bash discos.sh 
+ 1729  sudo apt-get update
+ 1730  sudo apt-get upgrade
+ 1731  pip3 install esptool
+ 1732  esptool.py --port /dev/ttyUSB0 erase_flash
+ 1733  sudo esptool.py --port /dev/ttyUSB0 erase_flash
+ 1734  esptool.py --port /dev/ttyUSB0 erase_flash
+ 1735  bash discos.sh 
+ 1736  sudo apt-get update
+ 1737  sudo arduino-1.8.18-linux64/
+ 1738  sudo arduino
+ 1739  sudo arduino-1.8.18-linux64
+ 1740  sudo arduino-1.8.18-linux64/arduino-1.8.18/arduino
+ 1741  ls
+ 1742  sudo 
+ 1743  sudo programaDosPruebaDos/programaDosPruebaDos.ino 
+ 1744  sudo apt-get update
+ 1745  sudo apt-get upgrade
+ 1746  bash discos.sh 
+ 1747  sudo apt-get update
+ 1748  sudo apt-get upgrade
+ 1749  sudo apt-get update
+ 1750  sudo apt-get upgrade
+ 1751  sudo apt-get update
+ 1752  sudo apt-get upgrade
+ 1753  bash discos.sh 
+ 1754  sudo apt-get update
+ 1755  sudo apt-get upgrade
+ 1756  bash discos.sh 
+ 1757  sudo apt-get update
+ 1758  sudo apt-get upgrade 
+ 1759  bash discos.sh 
+ 1760  sudo apt-get update
+ 1761  sudo apt-get upgrade
+ 1762  sudo apt-get update
+ 1763  sudo apt-get upgrade
+ 1764  sudo apt-get update
+ 1765  sudo apt-get upgrade
+ 1766  sudo apt-get update
+ 1767  sudo apt-get upgrade
+ 1768  bash discos.sh 
+ 1769  sudo apt-get update
+ 1770  sudo apt-get upgrade
+ 1771  sudo apt-get update
+ 1772  sudo apt-get upgrade
+ 1773  bash discos.sh 
+ 1774  sudo apt-get update
+ 1775  sudo apt-get upgrade
+ 1776  ipconfig
+ 1777  ifconfig
+ 1778  iconfig
+ 1779  ifconfig
+ 1780  ipconfig
+ 1781  ifcongif
+ 1782  ifconfig
+ 1783  nmap -sn 127.0.0.1
+ 1784  nmap -sS 127.0.0.1
+ 1785  sudo ifconfig
+ 1786  sudo nmap -sS 127.0.0.1
+ 1787  ifconfig -a
+ 1788  sudo nmap -sn 10.100.3.35
+ 1789  sudo nmap -sn 127.0.0.1
+ 1790  sudo ifconfig
+ 1791  nmap -sn 10.100.3.35/20
+ 1792  sudo nmap -sn 10.100.3.35/20
+ 1793  sudo nmap -sS 10.100.3.35
+ 1794  sudo nmap -sS 10.100.3.35 -p-
+ 1795  sudo nmap -sT 10.100.3.35 -p-
+ 1796  sudo nmap -sV 10.100.3.35 -p-
+ 1797  sudo bash discos.sh 
+ 1798  sudo apt-get update
+ 1799  sudo apt-get upgrade
+ 1800  bash discos.sh 
+ 1801  sudo apt-get update
+ 1802  sudo apt-get upgrade
+ 1803  bash discos.sh 
+ 1804  sudo apt-get update
+ 1805  sudo apt-get upgrade 
+ 1806  bash discos.sh 
+ 1807  sudo apt-get update
+ 1808  sudo apt-get upgrade
+ 1809  bash discos.sh 
+ 1810  sudo apt-get update
+ 1811  sudo apt-get upgrade
+ 1812  bash discos.sh 
+ 1813  sudo apt-get update
+ 1814  sudo apt-get upgrade
+ 1815  bash discos.sh 
+ 1816  sudo apt-get update
+ 1817  sudo apt-get upgrade
+ 1818  bash discos.sh 
+ 1819  sudo apt-get update
+ 1820  sudo apt-get upgrade
+ 1821  sudo apt-get update
+ 1822  bash discos.sh 
+ 1823  sudo apt-get upgrade
+ 1824  javac --version
+ 1825  java --version
+ 1826  sudo apt install default-jdk
+ 1827  sudo apt install default-jre 
+ 1828  sudo apt-get update
+ 1829  java --version
+ 1830  sudo apt install default-jre
+ 1831  sudo apt install software-properties-common
+ 1832  sudo add-apt-repositorio ppa:linuxuprising/java
+ 1833  sudo apt install default-jre
+ 1834  java -version
+ 1835  sudo apt-get install default-jre
+ 1836  java -version
+ 1837  javac -version
+ 1838  sudo apt install default-jdk
+ 1839  sudo apt-get update
+ 1840  java --version
+ 1841  sudo snap install intellij-idea-community --classic
+ 1842  java -version
+ 1843  sudo apt install default-jdk
+ 1844  oracle-java11-installer-local (11.0.18-1~linuxuprising0) focal; urgency=medium
+ 1845  sudo apt install default-jdk
+ 1846  bash discos.sh 
+ 1847  sudo apt-get update
+ 1848  sudo apt-get upgrade
+ 1849  bash discos.sh 
+ 1850  sudo apt-get update
+ 1851  sudo apt-get upgrade
+ 1852  jdk --version
+ 1853  default-jdk --version
+ 1854  default-jdk 
+ 1855  sudo apt install default-jdk
+ 1856  java -version
+ 1857  sudo apt install default-jre
+ 1858  sudo apt install openjdk-21-jre-headless
+ 1859  bash discos.sh 
+ 1860  sudo apt-get update
+ 1861  sudo apt-get upgrade
+ 1862  ls
+ 1863  run main.kt 
+ 1864  curl -s "https://get.sdkman.io" | bash
+ 1865  java --version
+ 1866  sdk install java
+ 1867  sudo curl -s "https://get.sdkman.io" | bash
+ 1868  sdk install java
+ 1869  sdkman install java
+ 1870  sdk install java
+ 1871  sudo apt install sdk
+ 1872  sdk install java
+ 1873  sdk list
+ 1874  sudo curl -s "https://get.sdkman.io" | bash
+ 1875  sdk selfupdate force
+ 1876  source "$HOME/.sdkman/bin/sdkman-init.sh"
+ 1877  sdk version
+ 1878  sdk install java
+ 1879  java --version
+ 1880  java --version
+ 1881  sdk java --version
+ 1882  sdk --version
+ 1883  java --version
+ 1884  sudo apt-get update
+ 1885  sudo apt-get upgrade
+ 1886  bash discos.sh 
+ 1887  sudo apt-get update
+ 1888  sudo apt-get upgrade
+ 1889  bash discos.sh 
+ 1890  sudo apt-get update
+ 1891  sudo apt-get upgrade
+ 1892  sudo apt-get update
+ 1893  sudo apt-get upgrade
+ 1894  ls
+ 1895  cd Descargas/
+ 1896  ls
+ 1897  sudo touch /etc/default/google-chrome
+ 1898  sudo apt --only-upgrade install google-chrome-stable
+ 1899  bash discos.sh 
+ 1900  sudo apt-get update
+ 1901  sudo apt-get upgrade
+ 1902  bash discos.sh 
+ 1903  sudo apt-get update
+ 1904  sudo apt-get upgrade
+ 1905  bash discos.sh 
+ 1906  sudo apt-get update
+ 1907  sudo apt-get upgrade
+ 1908  bash discos.sh 
+ 1909  sudo apt-get update 
+ 1910  sudo apt-get upgrade
+ 1911  bash discos.sh 
+ 1912  sudo apt install ./master-pdf-editor*.deb
+ 1913  ls
+ 1914  ls -a
+ 1915  cd ..
+ 1916  ls
+ 1917  sudo apt install ./master-pdf-editor*.deb
+ 1918  ls
+ 1919  cd Descargas/
+ 1920  ls
+ 1921  sudo apt install ./master-pdf-editor-5.9.70-qt5.9.x86_64.deb 
+ 1922  sudo apt-get update
+ 1923  sudo apt-get upgrade
+ 1924  sudo apt update && sudo apt upgrade
+ 1925  sudo apt install ./master-pdf-editor-5.9.70-qt5.9.x86_64.deb 
+ 1926  ls
+ 1927  sudo apt install ./master-pdf-editor-5.9.70-qt5.9.x86_64.deb
+ 1928  sudo snap install master-pdf-editor-5
+ 1929  open master-pdf-editor-5
+ 1930  sudo master-pdf-editor-5
+ 1931  bash discos.sh 
+ 1932  sudo apt update && sudo apt upgrade
+ 1933  sudo snap install master-pdf-editor-5
+ 1934  snap help refresh
+ 1935  sudo snap install master-pdf-editor-5
+ 1936  sudo apt update
+ 1937  sudo apt install snapd
+ 1938  sudo snap install hello-world
+ 1939  hello-world
+ 1940  sudo apt install snapd
+ 1941  wget http://get.code-industry.net/public/master-pdf-editor-4.3.82_qt5.amd64.deb
+ 1942  sudo dpkg -i master-pdf-editor-4.3.82_qt5.amd64.deb
+ 1943  cd Descargas/
+ 1944  sudo dpkg -i master-pdf-editor-5.9.70-qt5.9.x86_64.deb 
+ 1945  sudo master-pdf-editor-5.masterpdfeditor5 
+ 1946  cd Descargas/
+ 1947  sudo apt install ./master-pdf-editor-5.9.70-qt5.9.x86_64.deb 
+ 1948  sudo apt install libqt5concurrent5
+ 1949  sudo apt-get autoremove
+ 1950  sudo apt-get autoclean
+ 1951  sudo apt-get -f install
+ 1952  sudo apt-get install lubuntu-restricted-extras
+ 1953  sudo apt-get install flashplugin-installer
+ 1954  bash discos.sh 
+ 1955  bas discos.sh 
+ 1956  bash discos.sh 
+ 1957  sudo apt-get update
+ 1958  sudo apt-get upgrade
+ 1959  bash discos.sh 
+ 1960  sudo apt-get update
+ 1961  sudo apt-get upgrade
+ 1962  bash discos.sh
+ 1963  bash discos.sh 
+ 1964  sudo apt-get update 
+ 1965  sudo apt-get upgrade
+ 1966  bash discos.sh 
+ 1967  sudo apt-get update
+ 1968  sudo apt-get upgrade
+ 1969  bash discos.sh 
+ 1970  sudo apt-get update
+ 1971  sudo apt-get upgrade
+ 1972  bash discos.sh 
+ 1973  sudo apt-get update
+ 1974  sudo apt-get upgrade
+ 1975  sudo apt-get update
+ 1976  sudo apt-get upgrade
+ 1977  bash discos.sh 
+ 1978  sudo apt-get update
+ 1979  sudo apt-get upgrade
+ 1980  ls
+ 1981  pwd
+ 1982  sudo discos.sh
+ 1983  112114
+ 1984  sudo discos.sh
+ 1985  pwd
+ 1986  ls
+ 1987  discos.sh
+ 1988  pwd
+ 1989  ls
+ 1990  LS
+ 1991  cls
+ 1992  clean
+ 1993  ls
+ 1994  bash discos.sh 
+ 1995  history
+

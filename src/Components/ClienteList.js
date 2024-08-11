@@ -57,6 +57,7 @@ const ClienteList = ({cliente, clientes, setClienteUpdated}) => {
             <tbody>
                 {clientes.map(cliente => (
                     <tr key={cliente.idcliente}>
+                        <td>{cliente.idcliente}</td>
                         <td>{cliente.nombre}</td>
                         <td>{cliente.apellidos}</td>
                         <td>{cliente.rfc}</td>

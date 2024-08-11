@@ -1,6 +1,6 @@
 import React from "react";
 
-const ClienteFormulario = ({cliente, setCliente}) => {
+const ClienteFormulario = ({cliente, facturas, setCliente}) => {
 
     const handleChange = e => {
         setCliente({
@@ -14,9 +14,12 @@ const ClienteFormulario = ({cliente, setCliente}) => {
     const handleSumit = () => {
         zipcode = parseInt(zipcode, 10)
         montototal = parseInt(montototal, 10)
+        console.log(nombre);
         idfactura = parseInt(idfactura, 10)
+        console.log(idfactura);
+        console.log("valor de idfactura "+idfactura);
         //Validacion de los datos
-        if (nombre === '' || apellidos === '' || rfc === '' || direccion === '' || zipcode <= 0 || montototal <= 0 || fecha === '' || idfactura <= 0) {
+        if (nombre === '' || apellidos === '' || rfc === '' || direccion === '' || zipcode <= 0 || montototal <= 0 || fecha === '') {
             alert('Todos los campos son obligatorios')
             return
         }
@@ -30,7 +33,8 @@ const ClienteFormulario = ({cliente, setCliente}) => {
         fetch('http://127.0.0.1:5401/cliente', requestInit)
         .then(res => res.json())
         .then(res => console.log(res))
-        
+        .catch(err => console.log(err))
+
 
         // reiniciando state de la factura
         setCliente({
@@ -76,8 +80,15 @@ const ClienteFormulario = ({cliente, setCliente}) => {
                 <input value={fecha} name="fecha" onChange={handleChange} type="date" id="fecha" className="form-control"/>
             </div>
             <div className="mb-3">
+            {/* <select htmlFor="idfactura" className="form-select form-select-sm" aria-label=".form-select-lg example">
+                <option selected>ID Factura</option>
+                {facturas.map(cliente => (
+                <option key={cliente.idfactura} value={cliente.idfactura} name="idfactura" onChange={handleChange} id="idfactura" type="selected" className="form-control" >{cliente.idfactura}</option>
+                ))}
+            </select> */}
+
                 <label htmlFor="idfactura" className="form-label">ID Factura</label>
-                <input value={idfactura} name="idfactura" onChange={handleChange} type="number" id="idfactura" className="form-control"/>
+                <input value={idfactura} name="idfactura" onChange={handleChange} type="number" id="idfactura" className="form-control" />
             </div>
             <button type="submit" className="btn btn-primary">Enviar</button>
         </form>

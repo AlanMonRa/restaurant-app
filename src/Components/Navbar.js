@@ -1,5 +1,5 @@
 import React from 'react';
-import App from './App';
+import App from './Factura';
 import Cliente from './Cliente';
 
 const Navbar = ({brand}) => {

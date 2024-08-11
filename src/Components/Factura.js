@@ -4,7 +4,7 @@ import FacturaList from './FacturaList';
 import FacturaFormulario from './FacturaFormulario';
 
 
-function App() {
+function Factura() {
 
   const [factura, setFactura] = useState({
     fecha: '',
@@ -47,4 +47,4 @@ function App() {
   );
 }
 
-export default App;
+export default Factura;
