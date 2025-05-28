@@ -1,6 +1,6 @@
 import React from "react";
 
-const ClienteFormulario = ({cliente, facturas, setCliente}) => {
+const ClienteFormulario = ({cliente, facturas, setCliente, setClienteUpdated}) => {
 
     const handleChange = e => {
         setCliente({
@@ -11,29 +11,40 @@ const ClienteFormulario = ({cliente, facturas, setCliente}) => {
 
     let {nombre, apellidos, rfc, direccion, zipcode, montototal, fecha, idfactura} = cliente
 
-    const handleSumit = () => {
+    const handleSubmit = (e) => {
+        e.preventDefault();
+
         zipcode = parseInt(zipcode, 10)
         montototal = parseInt(montototal, 10)
-        console.log(nombre);
         idfactura = parseInt(idfactura, 10)
-        console.log(idfactura);
-        console.log("valor de idfactura "+idfactura);
         //Validacion de los datos
-        if (nombre === '' || apellidos === '' || rfc === '' || direccion === '' || zipcode <= 0 || montototal <= 0 || fecha === '') {
+        if (
+            nombre === '' ||
+            apellidos === '' ||
+            rfc === '' ||
+            direccion === '' ||
+            zipcode <= 0 ||
+            montototal <= 0 ||
+            fecha === ''
+        ) {
             alert('Todos los campos son obligatorios')
-            return
+            return;
         }
 
         //Consulta
         const requestInit = {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify(cliente)
-        }
+            body: JSON.stringify(cliente),
+        };
+        // Enviando datos al servidor
         fetch('http://127.0.0.1:5401/cliente', requestInit)
-        .then(res => res.json())
-        .then(res => console.log(res))
-        .catch(err => console.log(err))
+        .then((res) => res.json())
+        .then((res) => {
+            console.log(res)
+            setClienteUpdated(prev => !prev); // Actualizando el estado para que se recargue la lista de clientes
+        })
+        .catch((err) => console.log(err))
 
 
         // reiniciando state de la factura
@@ -46,11 +57,11 @@ const ClienteFormulario = ({cliente, facturas, setCliente}) => {
             montototal: 0,
             fecha: '',
             idfactura: 0
-        })
-    }
+        });
+    };
 
     return(
-        <form onSubmit={handleSumit}>
+        <form onSubmit={handleSubmit}>
             <div className="mb-3">
                 <label htmlFor="nombre" className="form-label">Nombre</label>
                 <input value={nombre} name="nombre" onChange={handleChange} type="text" id="nombre" className="form-control"/>

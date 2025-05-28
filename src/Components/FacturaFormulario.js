@@ -11,7 +11,7 @@ const FacturaFormulario = ({factura, setFactura}) => {
 
     let {fecha, idmesero, mesa, subtotal, total} = factura
 
-    const handleSumit = () => {
+    const handleSubmit = () => {
         idmesero = parseInt(idmesero, 10)
         mesa = parseInt(mesa, 10)
         subtotal = parseInt(subtotal, 10)
@@ -31,7 +31,6 @@ const FacturaFormulario = ({factura, setFactura}) => {
         fetch('http://127.0.0.1:5401/factura', requestInit)
         .then(res => res.json())
         .then(res => console.log(res))
-        
 
         // reiniciando state de la factura
         setFactura({
@@ -44,7 +43,7 @@ const FacturaFormulario = ({factura, setFactura}) => {
     }
 
     return(
-        <form onSubmit={handleSumit}>
+        <form onSubmit={handleSubmit}>
             <div className="mb-3">
                 <label htmlFor="fecha" className="form-label">Fecha</label>
                 <input value={fecha} name="fecha" onChange={handleChange} type="date" id="fecha" className="form-control"/>

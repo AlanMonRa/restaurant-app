@@ -1,5 +1,4 @@
 import React, {Fragment, useState, useEffect} from 'react';
-import Navbar from './Navbar'
 import FacturaList from './FacturaList';
 import FacturaFormulario from './FacturaFormulario';
 
@@ -30,16 +29,15 @@ function Factura() {
 
   return (
     <Fragment>
-      <Navbar brand='Restaurant App'/>
       <div className='container'>
         <div className='row'>
-          <div className='col-7'>
+          <div className='col-md-7'>
             <h2 style={{textAlign: 'center'}}>Lista de Facturas</h2>
             <FacturaList factura={factura} facturas={facturas} setFacturaUpdated={setFacturaUpdated}/>
           </div>
-          <div className='col-5'>
-          <h2 style={{textAlign: 'center'}}>Creación de Facturas</h2>
-          <FacturaFormulario factura={factura} setFactura={setFactura}/>
+          <div className='col-md-5'>
+            <h2 style={{textAlign: 'center'}}>Creación de Facturas</h2>
+            <FacturaFormulario factura={factura} setFactura={setFactura}/>
           </div>
         </div>
       </div>

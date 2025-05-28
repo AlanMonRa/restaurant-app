@@ -68,10 +68,10 @@ const ClienteList = ({cliente, clientes, setClienteUpdated}) => {
                         <td>{cliente.idfactura}</td>
                         <td>
                             <div className="mb-3">
-                                <button onClick={() => hadleDelete(cliente.idcliente)} className="btn- btn-danger">Delete</button>
+                                <button onClick={() => hadleDelete(cliente.idcliente)} className="btn btn-danger">Delete</button>
                             </div>
                             <div className="mb-3">
-                                <button onClick={() => hadleUpdate(cliente.idcliente)} className="btn- btn-dark">Actualizar</button>
+                                <button onClick={() => hadleUpdate(cliente.idcliente)} className="btn btn-dark">Actualizar</button>
                             </div>
                         </td>
                     </tr>

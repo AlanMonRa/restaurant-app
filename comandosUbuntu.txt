@@ -999,3 +999,20 @@
  1994  bash discos.sh 
  1995  history
 
+node:
+API\examen\src
+npm run dev
+
+react:
+API\restaurant-app
+npm start
+
+Para el enrutamiento:
+yarn add react-router-dom
+yarn start
+
+DB:
+docker ps
+docker stop <nombre_o_id_del_contenedor>
+docker-compose start
+docker start <nombre_o_id_del_contenedor>

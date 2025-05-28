@@ -64,10 +64,10 @@ const FacturaList = ({factura, facturas, setFacturaUpdated}) => {
                         <td>{factura.total}</td>
                         <td>
                             <div className="mb-3">
-                                <button onClick={() => hadleDelete(factura.idfactura)} className="btn- btn-danger">Delete</button>
+                                <button onClick={() => hadleDelete(factura.idfactura)} className="btn btn-danger">Delete</button>
                             </div>
                             <div className="mb-3">
-                                <button onClick={() => hadleUpdate(factura.idfactura)} className="btn- btn-dark">Actualizar</button>
+                                <button onClick={() => hadleUpdate(factura.idfactura)} className="btn btn-dark">Actualizar</button>
                             </div>
                         </td>
                     </tr>
